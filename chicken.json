@@ -1,0 +1,30 @@
+
+{
+  "datas":[
+  {
+    "name": "Fried",
+    "description": "Fried chicken is very delicious and very light on the stomach."
+  },
+  {
+    "name": "Boiled",
+    "description": "Boiled chicken is very healthy; however, it is not that tasty."
+  },
+  {
+    "name": "Boiled",
+    "description": "Boiled chicken is very healthy; however, it is not that tasty."
+  },
+  {
+    "name": "Grilled",
+    "description": "Grilled chicken cooked on top of a hot coal fire with added hot spices."
+  },
+  {
+    "name": "Roast",
+    "description": "A savory roasted chicken with crispy skin and tender meat."
+  },
+  {
+    "name": "Curry",
+    "description": "Chicken curry with aromatic spices, served with fluffy rice or bread."
+  }
+]
+}
+  
